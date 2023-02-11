@@ -3,7 +3,7 @@ This repository contains ICAR(Indian Counsil of Agriculture Research) and JET(Jo
 
 इस रिपोजिटरी में आईसीएआर(इंडियन काउंसिल ऑफ एग्रीकल्चर रिसर्च) और जेट(ज्वाइंट एंट्रेंस एग्जाम) के नोट्स हैं|
 
-# Index (table of content)
+# Table of content
 
 ## Botany
 Coming soon...
