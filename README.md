@@ -2,7 +2,7 @@
 This repository contains ICAR(Indian Counsil of Agriculture Research) and JET(Joint Enterance Exam) notes.
 
 
-# Tndex (table of content)
+# Index (table of content)
 
 ## Botany
 Coming soon...
