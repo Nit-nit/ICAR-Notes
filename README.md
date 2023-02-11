@@ -1,2 +1,26 @@
 # ICAR-Notes
-This repository will contains the notes which i read in my school, i thought i should make one
+This repository contains ICAR(Indian Counsil of Agriculture Research) and JET(Joint Enterance Exam) notes.
+
+
+# Tndex (table of content)
+
+## Botany
+Coming soon...
+
+## Horticulture
+Coming soon...
+
+## Organic Chemistry
+Coming soon...
+
+## Inorganic Chemistry
+Coming Soon...
+
+Zoology
+Coming Soon...
+
+Soil Chemistry
+Coming soon...
+
+Animal Husbandry
+Coming Soon...
