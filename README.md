@@ -5,26 +5,26 @@ This repository contains ICAR(Indian Counsil of Agriculture Research) and JET(Jo
 
 # Table of content
 
-## Botany
+## Botany(वनस्पति ज्ञान)
 Coming soon...
 
-## Horticulture
+## Horticulture(बागवानी)
 Coming soon...
 
-## Organic Chemistry
+## Organic Chemistry(कार्बनिक रसायन शास्त्र)
 Coming soon...
 
-## Inorganic Chemistry
+## Inorganic Chemistry(एकार्बेनिक रसायन शास्त्र)
 Coming Soon...
 
-## Zoology
+## Zoology(जीव विज्ञान)
 - Cockroach
 
-## Soil Chemistry
+## Soil Chemistry(मृदा रसायन)
 Coming soon...
 
-## Animal Husbandry
+## Animal Husbandry(पशुपालन)
 Coming Soon...
 
-## Agronomy
+## Agronomy/Agriculture Science(कृषि विज्ञान)
 Coming Soon...
